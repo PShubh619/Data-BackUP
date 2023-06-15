@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "974049824214",
+    "firebase_url": "https://data-backup-f8c67-default-rtdb.firebaseio.com",
+    "project_id": "data-backup-f8c67",
+    "storage_bucket": "data-backup-f8c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974049824214:android:3ca253a272d1ebda73a877",
+        "android_client_info": {
+          "package_name": "com.example.databackup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCnODXy3b-hL5HxIZJhLMfOp9i8nYVu90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
